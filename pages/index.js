@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Hello, World. My Name is Gabriel Simao." />
-        <img src="pic_trulli.jpg">
+        <img src="IMG_3523.jpg">
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
